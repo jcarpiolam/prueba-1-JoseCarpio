@@ -23,7 +23,7 @@ main{
 }
 
 .c-atom {
-    position: relative;
+    /* position: relative; */
     width: var(--atomSize);
     height: var(--atomSize);
     display: block;
